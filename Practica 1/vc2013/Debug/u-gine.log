@@ -1,0 +1,123 @@
+﻿Compilación iniciada a las 13/11/2015 16:04:07.
+     1>Proyecto "E:\Master\2. Programación 2D\Prácticas\Practica 1\vc2013\u-gine.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\lib\stb_image.c
+         stb_image.c
+     1>e:\master\2. programación 2d\prácticas\practica 1\lib\stb_image.c(559): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : vea la declaración de 'fopen'
+     1>e:\master\2. programación 2d\prácticas\practica 1\lib\stb_image.c(621): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : vea la declaración de 'fopen'
+     1>e:\master\2. programación 2d\prácticas\practica 1\lib\stb_image.c(659): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : vea la declaración de 'fopen'
+     1>e:\master\2. programación 2d\prácticas\practica 1\lib\stb_image.c(4552): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : vea la declaración de 'fopen'
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\main.cpp ..\src\renderer.cpp ..\src\screen.cpp
+         screen.cpp
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(81): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(88): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(121): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(122): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : vea la declaración de 'strcat'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(140): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(168): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : vea la declaración de 'sprintf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(174): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : vea la declaración de 'sprintf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(180): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : vea la declaración de 'sprintf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(186): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : vea la declaración de 'sscanf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(192): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : vea la declaración de 'sscanf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(198): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : vea la declaración de 'strncpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(207): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : vea la declaración de 'strncpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(216): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : vea la declaración de 'strncpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(408): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : vea la declaración de 'fopen'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(435): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : vea la declaración de 'fopen'
+         renderer.cpp
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(81): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(88): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(121): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(122): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : vea la declaración de 'strcat'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(140): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(168): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : vea la declaración de 'sprintf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(174): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : vea la declaración de 'sprintf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(180): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : vea la declaración de 'sprintf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(186): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : vea la declaración de 'sscanf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(192): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : vea la declaración de 'sscanf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(198): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : vea la declaración de 'strncpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(207): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : vea la declaración de 'strncpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(216): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : vea la declaración de 'strncpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(408): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : vea la declaración de 'fopen'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(435): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : vea la declaración de 'fopen'
+         main.cpp
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(81): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(88): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(121): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(122): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : vea la declaración de 'strcat'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(140): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : vea la declaración de 'strcpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(168): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : vea la declaración de 'sprintf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(174): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : vea la declaración de 'sprintf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(180): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : vea la declaración de 'sprintf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(186): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : vea la declaración de 'sscanf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(192): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : vea la declaración de 'sscanf'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(198): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : vea la declaración de 'strncpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(207): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : vea la declaración de 'strncpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(216): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : vea la declaración de 'strncpy'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(408): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : vea la declaración de 'fopen'
+     1>e:\master\2. programación 2d\prácticas\practica 1\include\string.h(435): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : vea la declaración de 'fopen'
+     1>e:\master\2. programación 2d\prácticas\practica 1\src\main.cpp(18): warning C4244: 'argumento' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>e:\master\2. programación 2d\prácticas\practica 1\src\main.cpp(19): warning C4244: 'argumento' : conversión de 'double' a 'int'; posible pérdida de datos
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Master\2. Programación 2D\Prácticas\Practica 1\vc2013\Debug\u-gine.exe" /INCREMENTAL /NOLOGO /LIBPATH:../lib glfw.win32.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Master\2. Programación 2D\Prácticas\Practica 1\vc2013\Debug\u-gine.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Master\2. Programación 2D\Prácticas\Practica 1\vc2013\Debug\u-gine.lib" /MACHINE:X86 Debug\stb_image.obj
+         Debug\main.obj
+         Debug\math.obj
+         Debug\renderer.obj
+         Debug\screen.obj
+     1>LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+         u-gine.vcxproj -> E:\Master\2. Programación 2D\Prácticas\Practica 1\vc2013\Debug\u-gine.exe
+     1>Compilación del proyecto terminada "E:\Master\2. Programación 2D\Prácticas\Practica 1\vc2013\u-gine.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:14.60
